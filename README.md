@@ -1,0 +1,2 @@
+# socialNetworkSberSchool
+Структура социальной сети
